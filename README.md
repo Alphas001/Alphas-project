@@ -1,0 +1,2 @@
+# Alphas-project
+trading bot
